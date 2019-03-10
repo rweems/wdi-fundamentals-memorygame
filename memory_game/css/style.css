@@ -59,7 +59,7 @@ nav a{
 	border-bottom: 2px solid transparent;
 }
 a{
-	
+
 }
 
 a:hover{
@@ -108,5 +108,8 @@ footer a{
 	color: #F15B31;
 	font-weight: 700;
 
+}
+button{
+	font-size: 16px;
 }
 
